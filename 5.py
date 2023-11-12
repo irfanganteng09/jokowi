@@ -23,7 +23,7 @@ def send_telegram_message(message):
     return response.json()
 
 def main():
-    output_file = "nawala4.txt"
+    output_file = "nawala5.txt"
     interval_minutes = 10 # Interval waktu dalam menit
 
     while True:
