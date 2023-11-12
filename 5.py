@@ -2,9 +2,9 @@ from datetime import datetime
 import requests
 import time
 
-BOT_TOKEN = "6857350614:AAHPhlNMod05tB6KH8151HjWnDsLpjE3xoo"
-CHAT_ID = "-4082176094"
-LINK_URL = "https://kaconkalus.site/checker/4.txt"
+BOT_TOKEN = "6943539168:AAHugLQZXWFmmdccU0PFiO-GrBll7lvQTOc"
+CHAT_ID = "-1002000470409"
+LINK_URL = "https://kaconkalus.site/checker/5.txt"
 
 def check_nawala_domain(url):
     try:
